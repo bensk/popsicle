@@ -8,5 +8,10 @@ button{
   font-size: 72px;
   margin-top: 10%;
 border-radius: 5px;
+font-family: Fugaz one;
 
+}
+
+body{
+	font-family: Georgia;
 }
