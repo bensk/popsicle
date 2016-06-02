@@ -73,7 +73,7 @@ function popsicle804() {
 
     textFont("Fugaz One")
 
-    text(String(c_804[floor(random(c_801.length))]), windowHeight / 2, windowHeight / 2); // Displays one of the four words
+    text(String(c_804[floor(random(c_801.length))]), windowWidth / 2, windowHeight / 2); // Displays one of the four words
 
 }
 
