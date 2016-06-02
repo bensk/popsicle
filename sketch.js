@@ -15,13 +15,13 @@ function setup() {
         // text(words[index],10,50);  // Displays one of the four words
 
     button801 = createButton("801")
-    button801.position(windowWidth / 7, 10);
+    button801.position(windowWidth / 2-260, 10);
     // button801.touchEnded(popsicle801);
     button803 = createButton("803")
-    button803.position(3 * windowWidth / 7, 10);
+    button803.position(windowWidth / 2-60, 10);
     // button803.touchEnded(popsicle803);
     button804 = createButton("804")
-    button804.position(5 * windowWidth / 7, 10);
+    button804.position(windowWidth / 2+140, 10);
     // button804.touchEnded(popsicle804);
     touchStarted();
     touchEnded();
