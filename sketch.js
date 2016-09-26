@@ -1,5 +1,5 @@
 var c_801 = ["Adam", "Alyzza", "Amerie", "Ana", "Annalis", "Anthony", "Atiba", "Breanna", "Carlos", "Elizabeth", "Emarie", "Emily", "Jaila", "Janna", "Jhon", "Jordan", "Jose", "Joseph", "Kailyn", "Kathryn", "Keishaun", "Leslie", "Mamadou", "Michael", "Natalie", "Rich", "Souvan", "Stephanie", "Tiara", "Tyrell", "Victor"];
-var c_803 = ["Alexander", "Anjeliqe", "Antonio", "Ashley", "Benjamin", "Carolyn", "Catherine", "Daina", "David F.", "David K.", "Edgar", "Elaine", "Eric", "Evelyn", "Jared", "Josue", "Juan", "Katia", "Magnelie", "Malene", "Nayeli", "Noe", "Paola", "Patrick", "Shakira", "Soriel", "Tulio", "Vanessa F.", "Vanessa H.", "Yadira"]
+var c_803 = ["Penelope","Randy","Brandon","Edelyn","Danielys","Angelina","Jason","Joseph","Lizbeth","Aaron","Melitza","Jayce","Kimberly","Candida","Edwin","Milka","Ricardo","Cindy","Tyzhae","Cynthia","Jayleene","Johan","Francis","Aury","Jalene","Jessica","Jared","Alexis","Kevin"]
 var c_804 = ["Adrianna", "Alexander", "Alyssa", "Axel", "Brianna", "Caitlin", "Chanel", "Chasity", "Crystal", "Dallana", "Devonte", "Fatoumata", "Jaron", "Jeremiah", "Jese", "Joncarlo", "Josue", "Keisha", "Kendra", "Luis", "Mariam", "Mariyam", "Matthew", "Mayra", "Melvin", "Nyasia", "Ricardo", "Tanisha", "Xiuya", "Yafer", "Yaritza"]
 var econ = ["Anthony", "Bianny", "Charleen", "Christopher", "Darlenis", "Dazhane", "Elias", "Elvis", "Hailey", "Hector", "Jennifer", "Joanna", "Jonathan", "Jose", "Joshua", "Julian", "Julio", "Kellam", "Marlene", "Nephi", "Yennifer"]
 var cs_11 = ["Aaron", "Aileen", "Angie", "Bestydanis", "Brionna", "David", "Dayris", "Genesis", "Gregorio", "Grismely", "Ibrahim", "Izaiyah", "James", "Jorge", "Jose", "Justin", "Karen", "Luis", "Marquis", "Michael Chavez", "Michael Delvalle", "Mommina", "Steven", "Vianelys", "Yomaris", "Zaire"]
@@ -53,7 +53,7 @@ function popsicle801() {
 }
 
 function popsicle803() {
-    background('whit2')
+    background('white')
         // line(0, 0, 50, 50)
         // text(words[1], 10, 50)
     textSize(72)
